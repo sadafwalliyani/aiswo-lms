@@ -4,7 +4,7 @@ import streamlit as st
 
 # Define CSV file paths
 CSV_FILE_LIBRARY = 'aiswo-lms/library_data.csv'
-CSV_FILE_REGISTRATION = 'registration_newuser.csv'
+CSV_FILE_REGISTRATION = 'aiswo-lms/registration_newuser.csv'
 
 # Library Data Functions
 def load_library_data():
