@@ -12,7 +12,7 @@ st.markdown("""
 h1, h2, h3, h4, h5, h6 {color: #079da4;}
 .stButton button {background-color: #079da4; color: white; border-radius: 5px;}
 .stButton button:hover {background-color: #057a7f;}
-.stRadio label {color: blue !important;}
+.stRadio label {color: black !important;}
 </style>""", unsafe_allow_html=True)
 
 # Sidebar Navigation
